@@ -1,2 +1,5 @@
-tiene (juan, bicileta).
-tiene (juan, coche).
+tiene(juan, bicicleta).
+tiene(juan, coche).
+
+tiene(jorge, _).
+tiene(ana, coche).
